@@ -4,5 +4,7 @@
 
 ```bash
 mkdir ~/minecraft-server
-cd ~/minecraft-server
+```
+```cd
+ ~/minecraft-server
 ```
