@@ -2,7 +2,9 @@
 
 1. Install Java – It's best to keep everything in one folder
 
-```bash
+```
 bash mkdir ~/minecraft-server
+```
+```
 cd ~/minecraft-server
 ```
